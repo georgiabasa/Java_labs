@@ -1,0 +1,1 @@
+UML Class and Sequence Diagrams part2
